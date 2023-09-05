@@ -1,1 +1,1 @@
-# Password-Generate
+JavaScript project - Random password generator using HTML, CSS and JavaScript.
